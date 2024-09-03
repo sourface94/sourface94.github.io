@@ -2,4 +2,4 @@
 
 Welcome :) 
 
-I'll be using this site to share my thoughts, ideas, code and projects on AGI, geometry, topology and maybe more.
+I'll be using this site to share my thoughts, ideas, code and projects on AGI, geometry, topology, search functions and maybe more.
